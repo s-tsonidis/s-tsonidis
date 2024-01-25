@@ -1,3 +1,8 @@
+
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif)
+
+---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=s-tsonidis&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
@@ -9,5 +14,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=s-tsonidis&icon=5&color=6)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
