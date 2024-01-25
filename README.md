@@ -5,7 +5,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.tsonidis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-tsonidis) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s_tsonidis) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-tsonidis) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s_tsonidis) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=s-tsonidis&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
