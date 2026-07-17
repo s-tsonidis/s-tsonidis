@@ -9,20 +9,20 @@
 <br>
 
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=s-tsonidis&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub activity graph"
-/>
-
-<br><br>
-
-<img
   width="65%"
   src="./assets/streak.svg"
   alt="GitHub contribution streak"
 />
 
-<br><br>
+<br>
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=s-tsonidis&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub activity graph"
+/>
+
+<br>
 
 <picture>
   <source
