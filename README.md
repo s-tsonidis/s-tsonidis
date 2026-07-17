@@ -1,33 +1,19 @@
-<div align="center">
 
-<img width="100%"
-  src="https://raw.githubusercontent.com/s-tsonidis/s-tsonidis/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-  alt="Profile statistics"
-/>
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif)
 
-<br>
+---
 
-<img width="100%"
-  src="https://raw.githubusercontent.com/s-tsonidis/s-tsonidis/main/profile-summary-card-output/github_dark/3-stats.svg"
-  alt="GitHub statistics"
-/>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=s-tsonidis&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-<img width="100%"
-  src="https://raw.githubusercontent.com/s-tsonidis/s-tsonidis/main/profile-summary-card-output/github_dark/4-productive-time.svg"
-  alt="Productive time"
-/>
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=s-tsonidis&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=s-tsonidis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img width="100%"
-  src="https://raw.githubusercontent.com/s-tsonidis/s-tsonidis/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-  alt="Repositories per language"
-/>
-
-<img width="100%"
-  src="https://raw.githubusercontent.com/s-tsonidis/s-tsonidis/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-  alt="Most used commit languages"
-/>
+---
+[![](https://visitcount.itsvg.in/api?id=s-tsonidis&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <br><br>
 
