@@ -7,7 +7,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-rainbow.svg"
+    srcset="./profile-3d-contrib/profile-night-green.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
