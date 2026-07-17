@@ -4,22 +4,6 @@
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-green.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-green-animate.svg"
-  />
-  <img
-    width="100%"
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="3D contribution calendar"
-  />
-</picture>
-
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=s-tsonidis&theme=github-compact&hide_border=true&area=true"
