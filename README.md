@@ -1,14 +1,28 @@
-<div>
-  
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif)
-
 <div align="center">
+
+<img
+  width="100%"
+  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif"
+  alt="Animated header"
+/>
+
+<br><br>
 
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=s-tsonidis&theme=github-compact&hide_border=true&area=true"
   alt="GitHub activity graph"
 />
+
+<br><br>
+
+<img
+  width="65%"
+  src="./assets/streak.svg"
+  alt="GitHub contribution streak"
+/>
+
+<br><br>
 
 <picture>
   <source
