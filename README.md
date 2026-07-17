@@ -7,7 +7,7 @@
 />
 
 <img
-  width="65%"
+  width="100%"
   src="./assets/streak.svg"
   alt="GitHub contribution streak"
 />
