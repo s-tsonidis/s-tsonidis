@@ -20,7 +20,7 @@
 
 ## ⚡ About Me
 
-```yaml
+yaml
 name: Stefanos Tsonidis
 location: Thessaloniki, Greece
 workplace: Schoox Inc.
@@ -60,4 +60,4 @@ Code. Learn. Improve. Repeat.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F00FF,50:00C9FF,100:00F5D4&section=footer" />
 
-</div> ```
+</div>
