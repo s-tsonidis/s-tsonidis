@@ -8,25 +8,6 @@
 
 <br>
 
-<p>
-  <img
-    src="https://img.shields.io/github/followers/s-tsonidis?style=for-the-badge&logo=github&label=Followers&color=238636"
-    alt="Followers"
-  />
-
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fs-tsonidis&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=238636"
-    alt="Public repositories"
-  />
-
-  <img
-    src="https://komarev.com/ghpvc/?username=s-tsonidis&style=for-the-badge&color=238636&label=Profile+Views"
-    alt="Profile views"
-  />
-</p>
-
-<br>
-
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=s-tsonidis&theme=github-compact&hide_border=true&area=true"
