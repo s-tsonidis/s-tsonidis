@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F00FF,50:00C9FF,100:00F5D4&text=STEFANOS%20TSONIDIS&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Building%20software%20with%20clarity%20and%20curiosity&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F00FF,50:00C9FF,100:00F5D4" />
 
 <a href="https://git.io/typing-svg">
   <img
