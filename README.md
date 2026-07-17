@@ -26,6 +26,4 @@
   />
 </picture>
 
-<br><br>
-
 </div>
