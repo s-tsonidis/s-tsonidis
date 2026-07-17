@@ -47,10 +47,3 @@
 />
 
 </div>
-
-<img width="100%"
-  src="https://raw.githubusercontent.com/s-tsonidis/s-tsonidis/output/github-contribution-grid-snake-dark.svg"
-  alt="Contribution snake"
-/>
-
-</div>
